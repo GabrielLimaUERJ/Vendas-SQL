@@ -14,7 +14,7 @@ st.title("📊 App de Análise de Vendas")
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='1237',
+    password='SUA SENHA',
     database='vendas_db'
 )
 
