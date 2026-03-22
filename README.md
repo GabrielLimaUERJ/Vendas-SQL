@@ -75,5 +75,5 @@ Analisar o desempenho de vendas conectando diretamente a um banco SQL, permitind
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/GabrielLimaUERJ/Analise-Vendas-SQL-2025.git
-cd Analise-Vendas-SQL-2025
+git clone https://github.com/GabrielLimaUERJ/Vendas-SQL.git
+cd Vendas-SQL
