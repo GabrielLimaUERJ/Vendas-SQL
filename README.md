@@ -77,3 +77,5 @@ Analisar o desempenho de vendas conectando diretamente a um banco SQL, permitind
 ```bash
 git clone https://github.com/GabrielLimaUERJ/Vendas-SQL.git
 cd Vendas-SQL
+pip install -r requirements.txt
+streamlit run app.py
